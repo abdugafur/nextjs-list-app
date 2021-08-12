@@ -26,7 +26,7 @@ export default function Home() {
           dolorem nobis odit.
         </p>
         <Link href="/lists/">
-          <a className={styles.btn}>See Lists</a>
+          <a className={styles.btn}>See All Lists</a>
         </Link>
       </div>
     </>
